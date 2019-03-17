@@ -1,0 +1,4231 @@
+﻿1
+00:00:08,443 --> 00:00:09,966
+Previously on Star Trek: Discovery...
+
+2
+00:00:10,010 --> 00:00:12,360
+With the
+Enterprise in Spacedock,
+
+3
+00:00:12,403 --> 00:00:14,275
+Captain Pike and Discovery's mission
+
+4
+00:00:14,318 --> 00:00:16,190
+to find any rational explanation
+
+5
+00:00:16,233 --> 00:00:17,930
+for the seven signals
+continues to escape me.
+
+6
+00:00:17,974 --> 00:00:19,584
+And with it, perhaps, any chance
+
+7
+00:00:19,628 --> 00:00:21,456
+of a relationship with my brother Spock.
+
+8
+00:00:21,499 --> 00:00:24,937
+Computer, show me Starfleet's
+rendering of the seven signals.
+
+9
+00:00:24,981 --> 00:00:26,200
+Spock drew these signals
+
+10
+00:00:26,243 --> 00:00:28,202
+two months before they appeared to us.
+
+11
+00:00:28,245 --> 00:00:29,681
+It's damn near identical.
+
+12
+00:00:31,857 --> 00:00:33,555
+Amanda?
+
+13
+00:00:33,598 --> 00:00:35,470
+I stole
+Spock's medical file.
+
+14
+00:00:35,513 --> 00:00:37,559
+I've been waiting for an
+update on my officer, Spock.
+
+15
+00:00:37,602 --> 00:00:39,430
+Your guy is wanted for murder.
+
+16
+00:00:39,474 --> 00:00:41,563
+Killed three of his doctors,
+then fled the starbase.
+
+17
+00:00:41,606 --> 00:00:44,000
+I thought that he
+had left it in the past,
+
+18
+00:00:44,044 --> 00:00:45,610
+but it's back.
+
+19
+00:00:45,654 --> 00:00:48,613
+- What is it?
+- Your brother called it the Red Angel.
+
+20
+00:00:48,657 --> 00:00:50,572
+That vision changed him forever.
+
+21
+00:00:50,615 --> 00:00:52,226
+It wasn't because of a vision.
+
+22
+00:00:52,269 --> 00:00:55,403
+- It was because of me.
+- What did you do?
+
+23
+00:00:55,446 --> 00:00:56,404
+I will find him.
+
+24
+00:00:56,447 --> 00:00:58,232
+No.
+
+25
+00:00:58,275 --> 00:01:00,147
+I will.
+
+26
+00:01:02,062 --> 00:01:03,498
+Got it.
+
+27
+00:01:03,541 --> 00:01:04,934
+After the dark matter hit me...
+
+28
+00:01:04,977 --> 00:01:07,763
+- It's me.
+- I started to see a ghost.
+
+29
+00:01:07,806 --> 00:01:09,852
+Her name was May, but she's dead. Tilly.
+
+30
+00:01:09,895 --> 00:01:11,984
+- I am losing, Michael.
+- You don't need sickbay.
+
+31
+00:01:12,028 --> 00:01:13,812
+- You need Stamets.
+- We should have results
+
+32
+00:01:13,856 --> 00:01:15,118
+- in one second.
+- There he is.
+
+33
+00:01:15,162 --> 00:01:17,251
+That's the captain.
+That's where he flies.
+
+34
+00:01:17,294 --> 00:01:18,774
+Just as I suspected.
+
+35
+00:01:18,817 --> 00:01:21,733
+- You are hosting a eukaryotic organism.
+- A fungus?
+
+36
+00:01:21,777 --> 00:01:23,996
+This might hurt a bit.
+
+37
+00:01:30,177 --> 00:01:32,657
+Security breach by unknown
+alien species in Engineering.
+
+38
+00:01:32,701 --> 00:01:35,834
+Engage quarantine protocol Alpha-Omega.
+
+39
+00:01:39,708 --> 00:01:41,840
+Energize.
+
+40
+00:01:41,884 --> 00:01:43,103
+Teleporter incoming.
+
+41
+00:01:56,420 --> 00:01:58,770
+- Captain.
+- Welcome aboard Discovery, Number One.
+
+42
+00:01:58,814 --> 00:02:01,338
+The failures cascaded
+through all our primaries.
+
+43
+00:02:01,382 --> 00:02:04,124
+Helm, nav, both impulse and
+warp drive. Chief Louvier
+
+44
+00:02:04,167 --> 00:02:06,082
+has an engineering team
+working 'round the clock.
+
+45
+00:02:06,126 --> 00:02:08,476
+I don't think Enterprise will
+ever have a chief engineer
+
+46
+00:02:08,519 --> 00:02:09,825
+more in love with his ship.
+
+47
+00:02:09,868 --> 00:02:11,479
+Apparently, Enterprise is the only ship
+
+48
+00:02:11,522 --> 00:02:13,002
+in the fleet that's had any problems.
+
+49
+00:02:13,045 --> 00:02:14,134
+You know, he warned me.
+
+50
+00:02:14,177 --> 00:02:15,657
+The damn holographic comm system.
+
+51
+00:02:15,700 --> 00:02:17,180
+Tell Louvier to rip
+out the entire system.
+
+52
+00:02:17,224 --> 00:02:18,616
+From now on we'll communicate
+
+53
+00:02:18,660 --> 00:02:20,052
+using good, old-fashioned view screens.
+
+54
+00:02:20,096 --> 00:02:21,663
+Truth is I never liked the holograms.
+
+55
+00:02:21,706 --> 00:02:23,491
+They look too much like ghosts.
+
+56
+00:02:23,534 --> 00:02:25,667
+He told you I'd say that.
+
+57
+00:02:25,710 --> 00:02:27,799
+No. I told him.
+
+58
+00:02:28,446 --> 00:02:30,584
+Cheeseburger. Fries.
+Habanero sauce.
+
+59
+00:02:30,619 --> 00:02:32,674
+You want to order some
+lighter fluid with that?
+
+60
+00:02:32,717 --> 00:02:33,675
+That goes with the shake.
+
+61
+00:02:33,718 --> 00:02:36,199
+Sorry to keep you in Spacedock.
+
+62
+00:02:36,243 --> 00:02:37,635
+I've made use of the time, Captain.
+
+63
+00:02:37,679 --> 00:02:40,464
+You've been looking into the
+allegations against Spock.
+
+64
+00:02:40,508 --> 00:02:42,858
+It's hard to comprehend,
+let alone believe,
+
+65
+00:02:42,901 --> 00:02:44,642
+that he murdered three people
+
+66
+00:02:44,686 --> 00:02:47,297
+at the psychiatric
+facility on Starbase Five.
+
+67
+00:02:47,341 --> 00:02:48,342
+How's the crew taking it?
+
+68
+00:02:48,385 --> 00:02:49,908
+They don't know the details.
+
+69
+00:02:49,952 --> 00:02:51,432
+Only that he's in trouble.
+
+70
+00:02:53,347 --> 00:02:55,349
+There's something else.
+
+71
+00:02:55,392 --> 00:02:57,394
+Tell me.
+
+72
+00:02:57,438 --> 00:03:01,703
+Starfleet's classified
+his case Level One.
+
+73
+00:03:01,746 --> 00:03:04,184
+Line officers don't usually
+warrant that kind of scrutiny.
+
+74
+00:03:04,227 --> 00:03:06,838
+It's unprecedented. Which is
+why I've done a little digging.
+
+75
+00:03:06,882 --> 00:03:08,100
+Sanctioned?
+
+76
+00:03:08,144 --> 00:03:10,190
+Better you don't know
+the answer to that.
+
+77
+00:03:10,233 --> 00:03:12,322
+Before I look at that,
+
+78
+00:03:12,366 --> 00:03:15,717
+I need to know why you saw fit
+to detour Federation protocols.
+
+79
+00:03:15,760 --> 00:03:19,329
+Something about this
+investigation isn't adding up.
+
+80
+00:03:19,373 --> 00:03:21,897
+I'm not letting him go without a fight.
+
+81
+00:03:21,940 --> 00:03:24,204
+As usual, we agree.
+
+82
+00:03:24,247 --> 00:03:26,597
+Captain Pike to the ready room.
+
+83
+00:03:26,641 --> 00:03:29,687
+I'm late for a briefing.
+I'm glad you came.
+
+84
+00:03:29,731 --> 00:03:31,254
+I'm sorry you can't stay longer.
+
+85
+00:03:31,298 --> 00:03:33,256
+Next time.
+
+86
+00:03:33,300 --> 00:03:34,866
+Be careful, Captain.
+
+87
+00:03:34,910 --> 00:03:37,217
+You, too, Number One.
+
+88
+00:03:43,745 --> 00:03:46,051
+We should give it a name.
+
+89
+00:03:46,095 --> 00:03:47,792
+Other than May.
+
+90
+00:03:49,098 --> 00:03:52,101
+I know it looks like a blob,
+
+91
+00:03:52,144 --> 00:03:54,277
+but this is one of the most
+sophisticated life-forms
+
+92
+00:03:54,321 --> 00:03:55,800
+I've ever encountered.
+
+93
+00:03:55,844 --> 00:03:58,890
+It has sentience, intention.
+
+94
+00:03:58,934 --> 00:04:02,285
+Tilly, the mycelial network
+doesn't just connect life.
+
+95
+00:04:02,329 --> 00:04:04,113
+It contains it.
+
+96
+00:04:04,156 --> 00:04:05,506
+It's an incubator.
+
+97
+00:04:05,549 --> 00:04:08,813
+You mean, like, um... like a home?
+
+98
+00:04:13,644 --> 00:04:17,257
+I've been wondering why
+it appeared to me as May,
+
+99
+00:04:17,300 --> 00:04:18,867
+which got me thinking about the real May
+
+100
+00:04:18,910 --> 00:04:20,825
+that I met when I was, um, 14.
+
+101
+00:04:22,349 --> 00:04:25,439
+I was, um... I was a weird kid.
+
+102
+00:04:25,482 --> 00:04:27,963
+You know?
+Like, not a lot of friends
+
+103
+00:04:28,006 --> 00:04:31,967
+and nobody who really
+believed in me, including me.
+
+104
+00:04:32,010 --> 00:04:35,753
+But... she did.
+
+105
+00:04:35,797 --> 00:04:40,323
+She wanted to connect to
+me, and she tried so hard.
+
+106
+00:04:40,367 --> 00:04:42,107
+But I don't really think
+
+107
+00:04:42,151 --> 00:04:43,805
+I was the friend to her that she needed.
+
+108
+00:04:43,848 --> 00:04:45,415
+I'm certain
+
+109
+00:04:45,459 --> 00:04:47,983
+you were much kinder than
+you give yourself credit for.
+
+110
+00:04:48,026 --> 00:04:50,333
+You always are.
+
+111
+00:04:50,377 --> 00:04:52,770
+Thank you, but...
+
+112
+00:04:52,814 --> 00:04:56,252
+I didn't even know she died.
+
+113
+00:04:56,296 --> 00:04:58,080
+I feel like I took her for granted.
+
+114
+00:04:58,123 --> 00:05:00,952
+That girl who thought I was special.
+
+115
+00:05:02,040 --> 00:05:03,172
+Oh!
+
+116
+00:05:07,045 --> 00:05:10,222
+I've cross-referenced what
+we're calling the Red Angel
+
+117
+00:05:10,266 --> 00:05:11,485
+with all known winged
+
+118
+00:05:11,528 --> 00:05:13,356
+and avian life-forms in the Federation.
+
+119
+00:05:13,400 --> 00:05:14,662
+So far, I've found nothing.
+
+120
+00:05:15,924 --> 00:05:17,882
+Sorry.
+
+121
+00:05:17,926 --> 00:05:20,668
+The universal translator
+sometimes has trouble
+
+122
+00:05:20,711 --> 00:05:23,192
+reconfiguring my
+lingual clicks and pops.
+
+123
+00:05:23,235 --> 00:05:26,500
+My answer to you was, "Nothing
+in the known universe. "
+
+124
+00:05:26,543 --> 00:05:28,502
+Which might suggest it's not a species.
+
+125
+00:05:28,545 --> 00:05:31,374
+- Maybe one of a kind.
+- A mutation.
+
+126
+00:05:31,418 --> 00:05:33,376
+Well, whatever it is,
+figuring out how it's connected
+
+127
+00:05:33,420 --> 00:05:35,726
+to these signals will
+help us identify it.
+
+128
+00:05:35,770 --> 00:05:38,076
+If only we knew what it needs.
+
+129
+00:05:39,426 --> 00:05:41,689
+Commander Nhan, USS Enterprise.
+
+130
+00:05:41,732 --> 00:05:42,864
+Glad to be here.
+
+131
+00:05:42,907 --> 00:05:44,387
+Welcome back aboard.
+
+132
+00:05:44,431 --> 00:05:45,867
+Could you pass the salt?
+
+133
+00:05:45,910 --> 00:05:47,695
+Commander Saru,
+
+134
+00:05:47,738 --> 00:05:49,392
+can you shed any light?
+
+135
+00:05:49,436 --> 00:05:51,394
+My apologies.
+
+136
+00:05:51,438 --> 00:05:53,396
+I woke up this morning fighting
+
+137
+00:05:53,440 --> 00:05:55,050
+an acute rhino virus.
+
+138
+00:05:55,093 --> 00:05:56,225
+So you have a cold.
+
+139
+00:05:56,268 --> 00:05:59,750
+I had a cold last week, which sucked.
+
+140
+00:06:01,012 --> 00:06:03,928
+Saurian. Six nasal canals.
+
+141
+00:06:03,972 --> 00:06:05,930
+It happens to the best of us, Linus.
+
+142
+00:06:05,974 --> 00:06:07,932
+Everyone to your stations.
+Detmer, set a course
+
+143
+00:06:07,976 --> 00:06:10,500
+for 108 mark four. Maximum warp.
+
+144
+00:06:10,544 --> 00:06:11,675
+Aye, sir.
+
+145
+00:06:11,719 --> 00:06:13,895
+Mr. Saru, you look like hell.
+
+146
+00:06:13,938 --> 00:06:15,331
+You've been burning the
+candle at both ends lately.
+
+147
+00:06:15,375 --> 00:06:16,419
+Go get some rest.
+
+148
+00:06:16,463 --> 00:06:18,682
+As you wish, sir.
+
+149
+00:06:18,726 --> 00:06:22,425
+Burnham. A word.
+
+150
+00:06:22,469 --> 00:06:26,647
+I understand your first officer
+is on her way to Spacedock.
+
+151
+00:06:26,690 --> 00:06:28,649
+Was her visit informative?
+
+152
+00:06:28,692 --> 00:06:30,302
+Number One is very resourceful.
+
+153
+00:06:30,346 --> 00:06:33,131
+People have a tendency to
+end up owing her favors.
+
+154
+00:06:33,175 --> 00:06:35,264
+She uncovered
+
+155
+00:06:35,307 --> 00:06:37,484
+some classified information
+
+156
+00:06:37,527 --> 00:06:38,702
+on Starbase Five.
+
+157
+00:06:38,746 --> 00:06:41,139
+That is the warp
+signature of the shuttle
+
+158
+00:06:41,183 --> 00:06:43,359
+that Spock stole from
+the psychiatric facility.
+
+159
+00:06:43,403 --> 00:06:45,622
+I put us on an intercept course.
+
+160
+00:06:45,666 --> 00:06:48,495
+We should reach his position
+in the next few hours.
+
+161
+00:06:53,195 --> 00:06:55,284
+S- Sir,
+
+162
+00:06:55,327 --> 00:06:57,765
+after everything that's happened,
+
+163
+00:06:57,808 --> 00:07:01,508
+I need to excuse myself
+from seeing Spock.
+
+164
+00:07:01,551 --> 00:07:03,423
+Not sure I follow.
+
+165
+00:07:03,466 --> 00:07:05,642
+I don't want to make
+things worse for him.
+
+166
+00:07:05,686 --> 00:07:10,473
+He's a fugitive, whatever
+the circumstances.
+
+167
+00:07:10,517 --> 00:07:14,346
+And as Amanda suggested...
+
+168
+00:07:14,390 --> 00:07:16,610
+I'm probably the last person
+
+169
+00:07:16,653 --> 00:07:19,482
+who should insert
+themselves into this problem.
+
+170
+00:07:19,526 --> 00:07:22,746
+I disagree. He is lost, Captain.
+
+171
+00:07:22,790 --> 00:07:26,184
+You are better suited to help him.
+
+172
+00:07:27,795 --> 00:07:30,014
+I've thought this through.
+
+173
+00:07:30,058 --> 00:07:34,497
+Please, trust me.
+
+174
+00:07:34,541 --> 00:07:37,500
+My abiding trust in you
+
+175
+00:07:37,544 --> 00:07:40,155
+doesn't eclipse the mission at hand.
+
+176
+00:07:40,198 --> 00:07:42,026
+Facing whatever happened to Spock,
+
+177
+00:07:42,070 --> 00:07:44,289
+it's not gonna be easy for any of us.
+
+178
+00:07:44,333 --> 00:07:48,206
+Reaching him has to be the priority.
+
+179
+00:07:53,647 --> 00:07:55,039
+Detmer, status?
+
+180
+00:07:55,083 --> 00:07:56,650
+Something has grabbed
+us out of warp, sir.
+
+181
+00:07:56,693 --> 00:07:58,216
+Speed dropping to sub-light.
+
+182
+00:07:58,260 --> 00:07:59,827
+- Helm going unresponsive.
+- Shields up.
+
+183
+00:07:59,870 --> 00:08:01,132
+Red alert. Owosekun,
+
+184
+00:08:01,176 --> 00:08:02,177
+are we talking tractor beam?
+
+185
+00:08:02,220 --> 00:08:03,352
+More powerful than that, sir.
+
+186
+00:08:03,395 --> 00:08:05,223
+I'm unable to raise shields.
+
+187
+00:08:05,267 --> 00:08:08,531
+Preliminary analysis indicates
+a multiphasic stasis field.
+
+188
+00:08:08,575 --> 00:08:10,141
+It's disrupting our shield harmonics.
+
+189
+00:08:10,185 --> 00:08:11,795
+We're at a full stop, sir.
+
+190
+00:08:11,839 --> 00:08:14,145
+Whatever has us, w-we're
+locked into place.
+
+191
+00:08:14,189 --> 00:08:15,799
+Like a damn fly in a web.
+
+192
+00:08:15,843 --> 00:08:18,889
+And there is the spider.
+
+193
+00:08:29,987 --> 00:08:31,989
+♪
+
+194
+00:08:59,582 --> 00:09:07,411
+Trailer, Sync and corrections by:<font color="#095f9b">kDragon</font>
+www.addic7ed.com
+
+195
+00:09:29,786 --> 00:09:36,572
+<font color="#F2F2F2">Star Trek: Discovery</font>
+<font color="00bbb9">SO2EO4- An Obol for Charon</font>
+
+196
+00:10:02,166 --> 00:10:04,560
+Starfleet has never
+encountered anything like it.
+
+197
+00:10:04,604 --> 00:10:06,562
+565 kilometers in diameter
+
+198
+00:10:06,606 --> 00:10:11,045
+with a mass of 6.39 x 10
+to the 20th power kilograms.
+
+199
+00:10:11,088 --> 00:10:13,874
+It melds organic and nonliving matter.
+
+200
+00:10:13,917 --> 00:10:15,571
+It's also ancient.
+
+201
+00:10:15,615 --> 00:10:19,662
+Initial scans put it
+at 100,000 years old.
+
+202
+00:10:19,706 --> 00:10:21,098
+"Organic"?
+
+203
+00:10:21,142 --> 00:10:22,970
+Are you saying it's
+some kind of a life-form?
+
+204
+00:10:23,013 --> 00:10:25,712
+Maybe it is a damn
+spider. I hate spiders.
+
+205
+00:10:25,755 --> 00:10:27,322
+It is premature to assign
+
+206
+00:10:27,365 --> 00:10:29,498
+any anthropomorphic
+distinction or intent.
+
+207
+00:10:29,541 --> 00:10:31,718
+As of yet, it hasn't
+responded to any hails.
+
+208
+00:10:31,761 --> 00:10:34,111
+But there is this.
+
+209
+00:10:34,155 --> 00:10:36,766
+The sphere is vibrating.
+
+210
+00:10:36,810 --> 00:10:39,508
+The computer extrapolated
+what it might sound like
+
+211
+00:10:39,551 --> 00:10:41,641
+based on the surrounding
+ambient radiation.
+
+212
+00:10:43,686 --> 00:10:45,601
+Well, it has my ship,
+
+213
+00:10:45,645 --> 00:10:47,124
+and I don't know what
+in the hell it wants.
+
+214
+00:10:47,168 --> 00:10:49,431
+Communicate with it or disable
+it. And quickly, please.
+
+215
+00:11:15,631 --> 00:11:16,719
+Captain Pike.
+
+216
+00:11:22,507 --> 00:11:24,596
+Saru.
+
+217
+00:12:12,601 --> 00:12:14,385
+Confirmed.
+
+218
+00:12:14,429 --> 00:12:15,778
+Did it work?
+
+219
+00:12:15,822 --> 00:12:17,562
+Yes. I can understand you.
+
+220
+00:12:17,606 --> 00:12:18,563
+I still can't read my controls.
+
+221
+00:12:18,607 --> 00:12:21,218
+I think this is Tau Cetian.
+
+222
+00:12:21,262 --> 00:12:23,699
+Am I the only one who bothered
+to learn a foreign language?
+
+223
+00:12:23,743 --> 00:12:25,614
+I have localized
+
+224
+00:12:25,657 --> 00:12:27,834
+the backup bridge translator.
+
+225
+00:12:27,877 --> 00:12:29,487
+For the time being,
+
+226
+00:12:29,531 --> 00:12:32,142
+everyone who speaks Earth
+English can communicate.
+
+227
+00:12:32,186 --> 00:12:34,797
+The rest of the crew and Discoveryâs
+computer are another matter.
+
+228
+00:12:34,841 --> 00:12:36,756
+The bridge may be temporarily
+fixed, but the virus will continue
+
+229
+00:12:36,799 --> 00:12:37,887
+spreading through our comms system.
+
+230
+00:12:37,931 --> 00:12:39,802
+I can try purging it
+
+231
+00:12:39,846 --> 00:12:41,064
+from the translator's main interface.
+
+232
+00:12:41,108 --> 00:12:42,762
+We have to be able to
+talk to the computer
+
+233
+00:12:42,805 --> 00:12:44,415
+and the rest of the
+crew to have any chance
+
+234
+00:12:44,459 --> 00:12:45,808
+of breaking free from
+that sphere. Do it.
+
+235
+00:12:45,852 --> 00:12:46,809
+Yes, sir.
+
+236
+00:12:48,289 --> 00:12:50,770
+I'll go. You should stay
+and monitor bridge stations.
+
+237
+00:12:50,813 --> 00:12:53,685
+I have placed
+all systems on... automatic.
+
+238
+00:12:53,729 --> 00:12:55,513
+And given our current circumstances,
+
+239
+00:12:55,557 --> 00:12:58,908
+you will need a translator
+just to operate the turbo lift.
+
+240
+00:12:58,952 --> 00:13:01,128
+Are you sure you can do
+this?We are wasting time.
+
+241
+00:13:02,869 --> 00:13:04,305
+We've run a full diagnostic, Captain,
+
+242
+00:13:04,348 --> 00:13:06,437
+and this section remains
+unaffected by the virus.
+
+243
+00:13:06,481 --> 00:13:08,439
+I will update you if anything changes.
+
+244
+00:13:08,483 --> 00:13:09,963
+Thank you, Ensign.
+
+245
+00:13:10,006 --> 00:13:11,703
+If we can't fly this thing, Commander,
+
+246
+00:13:11,747 --> 00:13:13,836
+we may have to jump away.
+
+247
+00:13:13,880 --> 00:13:15,838
+The spore drive will be ready, sir.
+
+248
+00:13:15,882 --> 00:13:17,535
+Bring the drive online,
+
+249
+00:13:17,579 --> 00:13:19,537
+and then we'll couple the shunts to me,
+
+250
+00:13:19,581 --> 00:13:21,844
+in case we've got to skedaddle.
+
+251
+00:13:26,196 --> 00:13:29,852
+♪ Da, Da, Da, Da, Da, Da. ♪
+
+252
+00:13:29,896 --> 00:13:33,943
+The universal translator
+for this section is no más.
+
+253
+00:13:33,987 --> 00:13:35,466
+Can I... help you?
+
+254
+00:13:35,510 --> 00:13:37,686
+Uh, unless you can reroute
+the plasma regulator
+
+255
+00:13:37,729 --> 00:13:40,471
+to silo off the relay junction, then,
+
+256
+00:13:40,515 --> 00:13:41,995
+uh, no.
+
+257
+00:13:42,038 --> 00:13:43,039
+You're, um...?
+
+258
+00:13:43,083 --> 00:13:44,606
+Jett Reno, from the Hiawatha.
+
+259
+00:13:44,649 --> 00:13:47,043
+I hitched a ride off that asteroid.
+
+260
+00:13:47,087 --> 00:13:49,437
+Chief engineer sent me to firewall off
+
+261
+00:13:49,480 --> 00:13:51,352
+the critical propulsion systems.
+
+262
+00:13:51,395 --> 00:13:53,006
+I didn't realize a greenhouse
+
+263
+00:13:53,049 --> 00:13:54,790
+could be "critical" or "propulsive,"
+
+264
+00:13:54,834 --> 00:13:56,226
+but, hmm, what do I know?
+
+265
+00:13:56,270 --> 00:13:57,880
+I'm just a gear head, not a farmer.
+
+266
+00:13:57,924 --> 00:13:59,882
+A... farmer.
+
+267
+00:13:59,926 --> 00:14:03,407
+Oh, please, let us know what
+you think, because we care.
+
+268
+00:14:03,451 --> 00:14:05,235
+You should. Antimatter and dilithium
+
+269
+00:14:05,279 --> 00:14:08,282
+might be old-school, but
+they don't let you down.
+
+270
+00:14:08,325 --> 00:14:10,545
+Why soar when you can crawl?
+
+271
+00:14:10,588 --> 00:14:12,460
+You don't know me,
+Doc. I'm un-insultable.
+
+272
+00:14:12,503 --> 00:14:15,506
+Especially by a guy who
+thinks he can run a ship
+
+273
+00:14:15,550 --> 00:14:18,205
+on mushrooms that I pick off my pizza.
+
+274
+00:14:18,248 --> 00:14:20,033
+Spores are clean, renewable.
+
+275
+00:14:20,076 --> 00:14:21,425
+Yeah, do they come with house dressing?
+
+276
+00:14:23,601 --> 00:14:25,429
+Do you have any idea how many planets
+
+277
+00:14:25,473 --> 00:14:27,562
+have been ruined by dilithium mining?
+
+278
+00:14:27,605 --> 00:14:29,216
+How many battles were fought
+
+279
+00:14:29,259 --> 00:14:31,392
+to corner its supply?
+Of course you don't.
+
+280
+00:14:31,435 --> 00:14:33,263
+You're one of those people
+who never even consider it.
+
+281
+00:14:33,307 --> 00:14:36,353
+And you're one of those people
+that does the ha-ha jokey thing
+
+282
+00:14:36,397 --> 00:14:38,181
+and then gets all huffy
+and in high dudgeon
+
+283
+00:14:38,225 --> 00:14:40,227
+when you can't think of a comeback.
+
+284
+00:14:40,270 --> 00:14:41,576
+Do you have gum?
+
+285
+00:14:41,619 --> 00:14:43,839
+Grape. I...
+
+286
+00:14:43,883 --> 00:14:45,188
+You know, it was only a
+couple centuries ago that
+
+287
+00:14:45,232 --> 00:14:47,190
+the Earth nearly choked
+to death on pollution.
+
+288
+00:14:47,234 --> 00:14:49,976
+Then we all woke up,
+and within a generation,
+
+289
+00:14:50,019 --> 00:14:51,978
+everything from a truck to a toaster...
+
+290
+00:14:52,021 --> 00:14:53,153
+Do you want... Sorry. Sorry
+
+291
+00:14:53,196 --> 00:14:54,981
+...was covered in solar panels.
+
+292
+00:14:55,024 --> 00:14:57,853
+Yesterday's solar
+panels are today's fungi.
+
+293
+00:14:57,897 --> 00:14:59,420
+Hmm. I can fix stuff
+
+294
+00:14:59,463 --> 00:15:01,901
+with duct tape, if you want.
+
+295
+00:15:01,944 --> 00:15:03,990
+Do you think May had anything
+to do with the sphere?
+
+296
+00:15:04,033 --> 00:15:06,514
+What a giant entity from our universe
+
+297
+00:15:06,557 --> 00:15:09,125
+and a mycelial species from the network?
+
+298
+00:15:09,169 --> 00:15:10,474
+Well, they have as much in common
+
+299
+00:15:10,518 --> 00:15:12,215
+as me and that grease monkey.
+
+300
+00:15:12,259 --> 00:15:14,261
+I could fix that analogy
+with duct tape, too.
+
+301
+00:15:22,020 --> 00:15:24,275
+____
+
+302
+00:15:24,276 --> 00:15:28,529
+____
+
+303
+00:15:33,323 --> 00:15:34,846
+Burnham to bridge. The
+universal translator
+
+304
+00:15:34,890 --> 00:15:37,240
+is back up and running
+ship-wide on all systems.
+
+305
+00:15:38,502 --> 00:15:42,332
+Saru! What is going on?
+
+306
+00:15:42,376 --> 00:15:44,160
+This is not just a cold.
+
+307
+00:15:46,032 --> 00:15:48,469
+No, it is not.
+
+308
+00:15:55,911 --> 00:15:56,956
+What's that hum?
+
+309
+00:15:56,999 --> 00:15:58,740
+Get down!
+
+310
+00:16:06,443 --> 00:16:09,490
+Okay, there's more where that came from.
+
+311
+00:16:09,533 --> 00:16:11,579
+We've got a hundred-
+giga-electron volts
+
+312
+00:16:11,622 --> 00:16:12,482
+surging through the local relays.
+
+313
+00:16:12,517 --> 00:16:13,343
+Computer's isolated the compartment
+
+314
+00:16:13,386 --> 00:16:15,345
+in order to contain the damage.
+
+315
+00:16:15,388 --> 00:16:17,434
+We've still got our life support.
+
+316
+00:16:17,478 --> 00:16:19,436
+Yeah, but... it could kill us.
+
+317
+00:16:19,480 --> 00:16:22,744
+If our oxygen ignites,
+we'll cook like french fries.
+
+318
+00:16:22,787 --> 00:16:24,920
+Well, we could divert
+the power to act like a...
+
+319
+00:16:24,963 --> 00:16:26,965
+- a-a lightning arrestor.
+- We could use the door
+
+320
+00:16:27,009 --> 00:16:28,663
+as a ground.
+
+321
+00:16:28,706 --> 00:16:31,274
+Then the surge would
+dissipate through the frame
+
+322
+00:16:31,317 --> 00:16:33,537
+of the ship. The question is,
+
+323
+00:16:33,581 --> 00:16:36,627
+how do we conduct the
+surge from there to there?
+
+324
+00:16:36,671 --> 00:16:38,586
+No, a gas could, once it ionizes.
+
+325
+00:16:38,629 --> 00:16:40,675
+I infuse the spores with
+an argon-xenon mixture
+
+326
+00:16:40,718 --> 00:16:42,459
+to slow decay.
+
+327
+00:16:42,503 --> 00:16:44,461
+We could link up the canisters
+
+328
+00:16:44,505 --> 00:16:46,550
+to contain the gas, our
+version of a lightning rod.
+
+329
+00:16:46,594 --> 00:16:48,552
+That's actually not a stupid idea.
+
+330
+00:16:48,596 --> 00:16:50,554
+It's my version of the house dressing,
+
+331
+00:16:50,598 --> 00:16:53,122
+- but it saves your life.
+- Huh.
+
+332
+00:16:53,165 --> 00:16:54,819
+Bridge. What happened?
+
+333
+00:16:54,863 --> 00:16:55,994
+Did the sphere fire on us?
+
+334
+00:16:56,038 --> 00:16:57,039
+Negative.
+
+335
+00:16:57,082 --> 00:16:58,214
+EPS conduits are overloading.
+
+336
+00:16:58,257 --> 00:16:59,215
+Systems are going haywire.
+
+337
+00:16:59,258 --> 00:17:01,043
+The virus is spreading.
+
+338
+00:17:01,086 --> 00:17:02,653
+What is happening to the ship?
+
+339
+00:17:02,697 --> 00:17:04,655
+- We... have to get to the bridge.
+- No, no, no, no, no.
+
+340
+00:17:04,699 --> 00:17:07,092
+Right now we got to get you to sickbay.
+
+341
+00:17:08,920 --> 00:17:10,052
+Gas her up.
+
+342
+00:17:15,100 --> 00:17:18,321
+- Gas transference at 100%.
+- You're gonna do that manually?
+
+343
+00:17:18,364 --> 00:17:20,584
+Uh, yeah, 'cause obviously you're not.
+
+344
+00:17:20,628 --> 00:17:22,020
+Flick the switch.
+
+345
+00:17:30,725 --> 00:17:32,683
+Are you okay?
+
+346
+00:17:32,727 --> 00:17:34,380
+I feel like I've been hit by lightning
+
+347
+00:17:34,424 --> 00:17:36,034
+for the second time this week.
+
+348
+00:17:36,078 --> 00:17:38,254
+Reno?
+
+349
+00:17:38,297 --> 00:17:41,083
+Reno? Reno, are you all right?
+
+350
+00:17:41,126 --> 00:17:42,606
+Weird... dream.
+
+351
+00:17:42,650 --> 00:17:45,174
+I was playing drums for Prince,
+
+352
+00:17:45,217 --> 00:17:47,002
+and there were doves and a parade.
+
+353
+00:17:47,045 --> 00:17:48,873
+Okeydoke.
+
+354
+00:17:50,658 --> 00:17:52,660
+Wait.
+
+355
+00:17:52,703 --> 00:17:54,052
+It's gone.
+
+356
+00:17:59,492 --> 00:18:00,450
+Tilly!
+
+357
+00:18:01,364 --> 00:18:02,452
+She won't let...
+
+358
+00:18:02,495 --> 00:18:03,584
+she won't let go!
+
+359
+00:18:03,627 --> 00:18:04,541
+She won't let go.
+
+360
+00:18:17,183 --> 00:18:19,881
+What's happening to him?
+
+361
+00:18:19,924 --> 00:18:21,970
+I'm hoping Dr. Pollard can tell us.
+
+362
+00:18:22,013 --> 00:18:25,278
+Well, comms is down, so I need
+to see what the situation is
+
+363
+00:18:25,321 --> 00:18:27,149
+in sickbay, anyway.
+
+364
+00:18:27,193 --> 00:18:28,498
+Triage plasma
+burns on level one.
+
+365
+00:18:28,542 --> 00:18:30,196
+Send non-critical to sickbay two.
+
+366
+00:18:30,239 --> 00:18:31,197
+Doctor.
+
+367
+00:18:31,240 --> 00:18:32,981
+Bring him here.
+
+368
+00:18:33,024 --> 00:18:36,158
+Elevated heart rate,
+
+369
+00:18:36,202 --> 00:18:37,507
+spiking adrenal levels,
+
+370
+00:18:37,551 --> 00:18:39,205
+increased neural activity.
+
+371
+00:18:39,248 --> 00:18:42,033
+The pain would render the
+average humanoid unconscious.
+
+372
+00:18:44,210 --> 00:18:45,515
+What do we do about those?
+
+373
+00:18:45,559 --> 00:18:47,996
+Nothing. It is an effect of...
+
+374
+00:18:48,039 --> 00:18:49,693
+my condition.
+
+375
+00:18:53,915 --> 00:18:55,482
+Ocular discomfort?
+
+376
+00:18:55,525 --> 00:18:57,527
+No. Kelpiens can see far deeper
+
+377
+00:18:57,571 --> 00:18:59,703
+into Th-the light spectrum than humans.
+
+378
+00:18:59,747 --> 00:19:02,010
+I keep seeing flashes
+of ultraviolet light,
+
+379
+00:19:02,053 --> 00:19:03,533
+invisible to you,
+but... quite the opposite
+
+380
+00:19:03,577 --> 00:19:05,013
+for me. Are these symptoms
+
+381
+00:19:05,056 --> 00:19:06,362
+common among Kelpiens?
+
+382
+00:19:06,406 --> 00:19:08,669
+This is pointless. And the ship is being
+
+383
+00:19:08,712 --> 00:19:11,150
+further immobilized as we waste time.
+
+384
+00:19:11,193 --> 00:19:13,456
+There is no reason to believe
+the sphere is benevolent.
+
+385
+00:19:13,500 --> 00:19:14,979
+Now, please...
+
+386
+00:19:15,023 --> 00:19:16,067
+Commander.
+
+387
+00:19:16,111 --> 00:19:18,635
+Dr. Pollard is trying to help you.
+
+388
+00:19:21,812 --> 00:19:25,642
+Yes. It is unique to my people,
+
+389
+00:19:25,686 --> 00:19:27,905
+and it is terminal.
+
+390
+00:19:32,388 --> 00:19:34,912
+Are you certain?
+
+391
+00:19:34,956 --> 00:19:37,350
+I have never been more
+certain of anything in my life.
+
+392
+00:19:37,393 --> 00:19:38,786
+When I awoke
+
+393
+00:19:38,829 --> 00:19:40,353
+in discomfort this morning...
+
+394
+00:19:41,876 --> 00:19:45,793
+I hoped it was just... a passing cold.
+
+395
+00:19:45,836 --> 00:19:48,883
+But now I have to face the truth.
+
+396
+00:19:48,926 --> 00:19:51,494
+I do not understand why...
+
+397
+00:19:51,538 --> 00:19:53,192
+but I am beginning to think that
+
+398
+00:19:53,235 --> 00:19:55,150
+the sphere is... is triggering
+
+399
+00:19:55,194 --> 00:19:57,892
+the Kelpien biological
+process known as...
+
+400
+00:19:57,935 --> 00:20:00,199
+Vahar'ai.
+
+401
+00:20:00,242 --> 00:20:02,897
+It is the event that signals
+
+402
+00:20:02,940 --> 00:20:06,205
+when Kelpiens are ready to be...
+
+403
+00:20:06,248 --> 00:20:10,296
+culled for slaughter by... the Ba'ul,
+
+404
+00:20:10,339 --> 00:20:12,733
+the predator species on my homeworld
+
+405
+00:20:12,776 --> 00:20:13,995
+of Kaminar.
+
+406
+00:20:14,038 --> 00:20:16,040
+But there are no Ba'ul here.
+
+407
+00:20:16,084 --> 00:20:18,217
+It does not matter.
+
+408
+00:20:18,260 --> 00:20:20,306
+Kelpien ganglia only enflame
+
+409
+00:20:20,349 --> 00:20:25,006
+in this manner... as we near our end.
+
+410
+00:20:25,049 --> 00:20:26,573
+I am a...
+
+411
+00:20:26,616 --> 00:20:28,836
+a slave to my biology.
+
+412
+00:20:28,879 --> 00:20:31,926
+We are not gonna let you die.
+
+413
+00:20:31,969 --> 00:20:34,276
+There has to be something
+
+414
+00:20:34,320 --> 00:20:35,756
+that we can do.
+
+415
+00:20:35,799 --> 00:20:37,497
+There is not.
+
+416
+00:20:37,540 --> 00:20:40,151
+Kelpiens undergoing Vahar'ai
+
+417
+00:20:40,195 --> 00:20:42,893
+either die in the culling
+
+418
+00:20:42,937 --> 00:20:46,854
+or... are driven to
+madness by the effects
+
+419
+00:20:46,897 --> 00:20:48,769
+of Vahar'ai. Either way,
+
+420
+00:20:48,812 --> 00:20:51,815
+death is inevitable.
+
+421
+00:20:54,383 --> 00:20:56,646
+The mycelial entity
+has attached itself to Tilly.
+
+422
+00:20:56,690 --> 00:20:58,692
+We're trying to free her.
+Engineering to bridge.
+
+423
+00:20:59,736 --> 00:21:01,651
+Engineering to bridge. Come in.
+
+424
+00:21:01,695 --> 00:21:03,262
+Comms are down.
+
+425
+00:21:03,305 --> 00:21:04,480
+Along with most of the ship.
+
+426
+00:21:08,441 --> 00:21:10,399
+Don't feel bad.
+
+427
+00:21:10,443 --> 00:21:13,272
+I know you have to
+keep me in quarantine.
+
+428
+00:21:13,315 --> 00:21:14,925
+Or us.
+
+429
+00:21:14,969 --> 00:21:17,319
+I feel a little weird.
+
+430
+00:21:17,363 --> 00:21:19,278
+I should...
+
+431
+00:21:19,321 --> 00:21:21,976
+I should be terrified, but I'm not.
+
+432
+00:21:22,019 --> 00:21:25,109
+May means me no harm.
+
+433
+00:21:25,153 --> 00:21:27,198
+Are you able to see May again?
+
+434
+00:21:27,242 --> 00:21:29,636
+How do you know this is benign?
+
+435
+00:21:29,679 --> 00:21:32,334
+May was scary, and she
+was clingy, and she,
+
+436
+00:21:32,378 --> 00:21:34,684
+like, never shut up, but...
+
+437
+00:21:34,728 --> 00:21:36,512
+she never hurt me.
+
+438
+00:21:36,556 --> 00:21:39,036
+She said she had a plan for me.
+
+439
+00:21:39,080 --> 00:21:41,517
+She said that I was her only chance.
+
+440
+00:21:41,561 --> 00:21:43,693
+Did you ever think she
+was manipulating you?
+
+441
+00:21:43,737 --> 00:21:46,000
+That's what she said you were
+doing... she said that you...
+
+442
+00:21:46,043 --> 00:21:48,045
+you were trying to
+poison me against her.
+
+443
+00:21:48,089 --> 00:21:50,439
+Okay, if that thing wasn't
+freaking me out, she is.
+
+444
+00:21:50,483 --> 00:21:53,050
+The blob seems to be secreting
+a psilocybin hallucinogen
+
+445
+00:21:53,094 --> 00:21:54,661
+to influence her emotions.
+
+446
+00:21:54,704 --> 00:21:55,618
+So you're saying
+
+447
+00:21:55,662 --> 00:21:56,706
+she's on a bad trip?
+
+448
+00:21:56,750 --> 00:21:58,055
+Or maybe it's just trying
+
+449
+00:21:58,099 --> 00:22:00,449
+to calm her down so she won't be scared.
+
+450
+00:22:00,493 --> 00:22:02,712
+Or so she won't fight back?
+
+451
+00:22:07,543 --> 00:22:10,546
+If Saru thinks
+that somehow the...
+
+452
+00:22:10,590 --> 00:22:13,636
+the sphere triggered Vahar'ai,
+
+453
+00:22:13,680 --> 00:22:15,943
+maybe escaping its grip would
+stop what's happening to him.
+
+454
+00:22:15,986 --> 00:22:17,248
+The problem is freeing ourselves
+
+455
+00:22:17,292 --> 00:22:18,815
+before it destroys the ship.
+
+456
+00:22:18,859 --> 00:22:20,991
+If it wanted to destroy
+us, why the slow attack?
+
+457
+00:22:21,035 --> 00:22:22,776
+It's inefficient, right?
+
+458
+00:22:22,819 --> 00:22:24,430
+It must need something.
+
+459
+00:22:24,473 --> 00:22:26,823
+It's taking what it needs.
+Without the computer,
+
+460
+00:22:26,867 --> 00:22:30,131
+all our primary systems begin
+to fail, including the warp core.
+
+461
+00:22:30,174 --> 00:22:32,481
+The EPS grid's unstable,
+and it's cutting off
+
+462
+00:22:32,525 --> 00:22:35,092
+entire sections, including Engineering.
+
+463
+00:22:35,136 --> 00:22:37,268
+Life support's down to
+60%, but who's counting?
+
+464
+00:22:37,312 --> 00:22:40,402
+It is not logical for a
+virus to kill its host.
+
+465
+00:22:40,446 --> 00:22:43,362
+You're attaching a known medical
+diagnosis to an unknown entity.
+
+466
+00:22:43,405 --> 00:22:44,928
+There may be a way to...
+
+467
+00:22:44,972 --> 00:22:46,190
+slow the virus.
+
+468
+00:22:46,234 --> 00:22:48,628
+If we can analyze its properties,
+
+469
+00:22:48,671 --> 00:22:52,414
+we may be able to develop
+digital antibodies.
+
+470
+00:22:52,458 --> 00:22:54,677
+That could give us back enough
+control to break the ship free.
+
+471
+00:22:54,721 --> 00:22:55,591
+In theory, but it will be
+
+472
+00:22:55,635 --> 00:22:57,288
+a slow process, like...
+
+473
+00:22:57,332 --> 00:22:59,769
+army ants eating a water buffalo.
+
+474
+00:22:59,813 --> 00:23:01,684
+I'm on it. Going to the science lab.
+
+475
+00:23:01,728 --> 00:23:03,120
+You will need my help.
+
+476
+00:23:03,164 --> 00:23:05,427
+Saru, Commander
+Burnham can handle this.
+
+477
+00:23:05,471 --> 00:23:08,387
+There's no reason to risk
+your health any further.
+
+478
+00:23:08,430 --> 00:23:10,824
+I am dying, Captain...
+
+479
+00:23:10,867 --> 00:23:14,480
+but I am most certainly not... dead.
+
+480
+00:23:21,182 --> 00:23:22,792
+The antibodies
+
+481
+00:23:22,836 --> 00:23:25,273
+are s-slowing the virus's progress.
+
+482
+00:23:25,316 --> 00:23:28,842
+Life support at 47%.
+
+483
+00:23:31,932 --> 00:23:34,891
+You are wondering why
+I kept this from you.
+
+484
+00:23:39,330 --> 00:23:41,855
+You don't have to bear it alone.
+
+485
+00:23:44,074 --> 00:23:45,815
+How...
+
+486
+00:23:45,859 --> 00:23:48,122
+do I explain...
+
+487
+00:23:48,165 --> 00:23:50,429
+to the woman who has fought
+
+488
+00:23:50,472 --> 00:23:54,433
+over and over for the right
+to take her next breath
+
+489
+00:23:54,476 --> 00:23:59,350
+that I come from a race that submits?
+
+490
+00:23:59,394 --> 00:24:01,396
+I'm your friend.
+
+491
+00:24:03,442 --> 00:24:06,314
+There will never be judgment between us.
+
+492
+00:24:06,357 --> 00:24:08,577
+Well, to my shame...
+
+493
+00:24:08,621 --> 00:24:10,927
+hiding is my nature.
+
+494
+00:24:14,670 --> 00:24:17,064
+I have learned multiple languages,
+
+495
+00:24:17,107 --> 00:24:19,501
+yet never shared my own,
+
+496
+00:24:19,545 --> 00:24:23,070
+fearful of revealing my own...
+
+497
+00:24:23,113 --> 00:24:25,202
+alienness.
+
+498
+00:24:27,596 --> 00:24:29,032
+May I...
+
+499
+00:24:29,076 --> 00:24:31,034
+request a favor?
+
+500
+00:24:31,078 --> 00:24:33,080
+Of course.
+
+501
+00:24:33,123 --> 00:24:35,038
+Anything.
+
+502
+00:24:35,082 --> 00:24:38,694
+I have kept detailed personal logs
+
+503
+00:24:38,738 --> 00:24:41,262
+since joining Starfleet.
+
+504
+00:24:41,305 --> 00:24:43,699
+I would ask you...
+
+505
+00:24:43,743 --> 00:24:47,050
+to officially catalogue
+them, so that when...
+
+506
+00:24:47,094 --> 00:24:51,402
+General Order 1 no longer
+applies to the Kelpiens...
+
+507
+00:24:51,446 --> 00:24:54,405
+they will know a journey like mine...
+
+508
+00:24:54,449 --> 00:24:55,929
+is possible.
+
+509
+00:24:55,972 --> 00:24:58,627
+It
+would be my privilege.
+
+510
+00:25:01,151 --> 00:25:04,111
+Did you record your
+life before Starfleet?
+
+511
+00:25:04,154 --> 00:25:06,896
+Uh, you might say my life began
+
+512
+00:25:06,940 --> 00:25:10,944
+when I was granted refugee
+status by the Federation.
+
+513
+00:25:10,987 --> 00:25:14,164
+While being processed
+at Starbase Seven...
+
+514
+00:25:16,427 --> 00:25:19,039
+...I saw for the first time
+
+515
+00:25:19,082 --> 00:25:23,696
+life-forms from across the universe,
+
+516
+00:25:23,739 --> 00:25:26,568
+some with less than I had,
+
+517
+00:25:26,612 --> 00:25:29,832
+yet, with a dream
+
+518
+00:25:29,876 --> 00:25:31,965
+of something better.
+
+519
+00:25:33,967 --> 00:25:35,969
+I listened.
+
+520
+00:25:38,449 --> 00:25:42,062
+Every story I heard...
+
+521
+00:25:42,105 --> 00:25:45,500
+...created... a space inside me
+
+522
+00:25:45,544 --> 00:25:49,069
+to feel more, to...
+
+523
+00:25:49,112 --> 00:25:51,724
+love more.
+
+524
+00:25:53,464 --> 00:25:56,467
+I joined Starfleet
+
+525
+00:25:56,511 --> 00:25:58,774
+to help those in need
+
+526
+00:25:58,818 --> 00:26:01,864
+the way I was helped.
+
+527
+00:26:01,908 --> 00:26:03,910
+You are...
+
+528
+00:26:03,953 --> 00:26:06,086
+the most empathic soul...
+
+529
+00:26:06,129 --> 00:26:08,131
+I know.
+
+530
+00:26:10,830 --> 00:26:13,746
+There was just one...
+
+531
+00:26:13,789 --> 00:26:16,575
+painful caveat to my signing up.
+
+532
+00:26:21,188 --> 00:26:23,146
+I
+could never return home.
+
+533
+00:26:23,190 --> 00:26:25,148
+Why?
+
+534
+00:26:25,192 --> 00:26:27,150
+Oh.
+
+535
+00:26:27,194 --> 00:26:29,152
+More flashes of ultraviolet light.
+
+536
+00:26:29,196 --> 00:26:31,633
+They are... growing
+
+537
+00:26:31,677 --> 00:26:34,157
+in... strength and frequency.
+
+538
+00:26:34,201 --> 00:26:36,638
+- I'll get something from sickbay.
+- No. No.
+
+539
+00:26:36,682 --> 00:26:39,510
+I will be fine.
+
+540
+00:26:39,554 --> 00:26:41,164
+The captain asked you
+
+541
+00:26:41,208 --> 00:26:43,514
+to return to the bridge
+as soon as possible.
+
+542
+00:26:43,558 --> 00:26:46,039
+I can continue the work here.
+
+543
+00:26:47,301 --> 00:26:49,346
+Spock is still
+at maximum warp, Captain.
+
+544
+00:26:49,390 --> 00:26:51,174
+If we're stuck here much
+longer, we're going to lose him.
+
+545
+00:26:51,218 --> 00:26:52,175
+Reallocate power from the transporters
+
+546
+00:26:52,219 --> 00:26:53,612
+to long-range sensors.
+
+547
+00:26:53,655 --> 00:26:54,961
+I don't want to lose
+contact with his shuttle.
+
+548
+00:26:55,004 --> 00:26:56,658
+Even with sensors at
+max, we won't be able
+
+549
+00:26:56,702 --> 00:26:58,660
+- to track him for much longer.
+- Contact Engineering.
+
+550
+00:26:58,704 --> 00:27:00,662
+See if they can reroute
+impulse power to the deflectors.
+
+551
+00:27:00,706 --> 00:27:02,664
+If we can raise
+shields, we might be able
+
+552
+00:27:02,708 --> 00:27:04,666
+to disrupt the stasis field
+just enough to break free.
+
+553
+00:27:04,710 --> 00:27:06,276
+If so, can we jump away?
+
+554
+00:27:06,320 --> 00:27:08,148
+Negative, sir. We
+don't have enough power
+
+555
+00:27:08,191 --> 00:27:09,889
+to create the necessary hull cavitation.
+
+556
+00:27:09,932 --> 00:27:11,673
+Comms are still down
+in Engineering, sir.
+
+557
+00:27:11,717 --> 00:27:13,066
+Security protocols are
+also malfunctioning,
+
+558
+00:27:13,109 --> 00:27:14,676
+locking off parts of the ship.
+
+559
+00:27:14,720 --> 00:27:16,069
+How are we doing, Commander?
+
+560
+00:27:16,112 --> 00:27:17,548
+The digital antibodies
+are doing their job,
+
+561
+00:27:17,592 --> 00:27:18,898
+but progress is sluggish.
+
+562
+00:27:18,941 --> 00:27:20,682
+I'm running out of options.
+
+563
+00:27:20,726 --> 00:27:23,293
+If we lose Spock, we lose
+any chance of protecting him.
+
+564
+00:27:23,337 --> 00:27:25,295
+Permission to go to Engineering.
+
+565
+00:27:25,339 --> 00:27:26,775
+We can't talk to them here, but maybe
+
+566
+00:27:26,819 --> 00:27:28,298
+I can help them get power to shields.
+
+567
+00:27:28,342 --> 00:27:29,735
+Permission granted.
+
+568
+00:27:38,745 --> 00:27:40,877
+- What's wrong?
+- The doors won't open,
+
+569
+00:27:40,921 --> 00:27:44,315
+- and that thing reattached itself to Tilly.
+- Can you detach it?
+
+570
+00:27:44,359 --> 00:27:46,709
+I could cut it off. She
+wouldn't even lose a freckle.
+
+571
+00:27:46,753 --> 00:27:48,232
+Bad idea.
+
+572
+00:27:48,276 --> 00:27:51,148
+If it's a symbiote,
+removing it might kill her.
+
+573
+00:27:51,192 --> 00:27:52,759
+Well, thanks for stopping by.
+
+574
+00:27:52,802 --> 00:27:55,239
+I came to see if we can find a
+way to boost power to shields.
+
+575
+00:27:55,283 --> 00:27:56,588
+No. With the systems fluctuating,
+
+576
+00:27:56,632 --> 00:27:57,938
+this section is partitioned off.
+
+577
+00:27:57,981 --> 00:27:59,330
+We can't get to the warp core.
+
+578
+00:27:59,374 --> 00:28:00,941
+Michael...
+
+579
+00:28:05,641 --> 00:28:08,383
+I feel really tired.
+
+580
+00:28:08,426 --> 00:28:09,427
+What is happening?
+
+581
+00:28:09,471 --> 00:28:10,646
+That blob is sending her
+
+582
+00:28:10,690 --> 00:28:11,952
+in and out of consciousness.
+
+583
+00:28:11,995 --> 00:28:13,605
+Why is it doing that to her?
+
+584
+00:28:13,649 --> 00:28:15,869
+It's not like we can ask it.
+
+585
+00:28:16,478 --> 00:28:17,958
+Actually, we can.
+
+586
+00:28:19,786 --> 00:28:21,222
+This is a harmonic interface.
+
+587
+00:28:21,265 --> 00:28:23,093
+It-it links my neurons
+to the mycelial network.
+
+588
+00:28:23,137 --> 00:28:24,791
+With modification,
+
+589
+00:28:24,834 --> 00:28:27,663
+it could link May to Tilly's
+central nervous system.
+
+590
+00:28:27,707 --> 00:28:30,100
+Let May speak using Tilly's mouth.
+
+591
+00:28:30,144 --> 00:28:32,276
+Wait. What did you say?
+
+592
+00:28:32,320 --> 00:28:33,713
+We're gonna talk to it.
+
+593
+00:28:33,756 --> 00:28:35,671
+We need it to tell us what it wants.
+
+594
+00:28:36,715 --> 00:28:38,412
+So do we.
+
+595
+00:28:38,455 --> 00:28:40,762
+The sphere... it's been
+trying to tell us something,
+
+596
+00:28:40,806 --> 00:28:42,721
+and we haven't been listening.
+
+597
+00:28:42,764 --> 00:28:44,418
+Well, damn, woman, go!We got her.
+
+598
+00:28:45,854 --> 00:28:47,464
+Saru,
+
+599
+00:28:47,508 --> 00:28:49,815
+could the sphere be
+trying to talk to us?
+
+600
+00:28:49,858 --> 00:28:52,774
+Using the virus as a way
+to make first contact?
+
+601
+00:29:01,304 --> 00:29:05,265
+Yeah. Yes, of course.
+I've been so blind.
+
+602
+00:29:08,529 --> 00:29:11,706
+The ultraviolet wavelengths
+are repeating, like...
+
+603
+00:29:11,750 --> 00:29:13,360
+like letters would in...
+
+604
+00:29:13,403 --> 00:29:15,536
+in a sentence... everywhere.
+
+605
+00:29:15,579 --> 00:29:18,017
+Okay, Saru. Saru, stop. You're
+hurting yourself.
+
+606
+00:29:18,060 --> 00:29:19,888
+No, no. No.
+
+607
+00:29:19,932 --> 00:29:22,021
+You called me an "empathic soul,"
+
+608
+00:29:22,064 --> 00:29:23,892
+and it is true. My ganglia
+
+609
+00:29:23,936 --> 00:29:26,155
+respond to shifts in my environment,
+
+610
+00:29:26,199 --> 00:29:27,722
+like an early-warning system.
+
+611
+00:29:27,766 --> 00:29:29,419
+So it is... it is no coincidence
+
+612
+00:29:29,463 --> 00:29:33,206
+that I started feeling
+sick just before...
+
+613
+00:29:33,249 --> 00:29:35,164
+the sphere engaged us.
+
+614
+00:29:35,208 --> 00:29:37,210
+- Why would...?
+- I know what it is trying to say.
+
+615
+00:29:37,253 --> 00:29:39,778
+Not first contact, Burnham.
+
+616
+00:29:39,821 --> 00:29:42,084
+Last contact.
+
+617
+00:29:42,128 --> 00:29:45,218
+I think it came to us to die.
+
+618
+00:29:54,662 --> 00:29:56,490
+May?
+
+619
+00:29:56,533 --> 00:29:57,926
+Still me.
+
+620
+00:29:57,970 --> 00:29:59,319
+Signal's piss-poor.
+
+621
+00:29:59,362 --> 00:30:00,581
+We need to amplify it.
+
+622
+00:30:00,624 --> 00:30:01,756
+Cortical implant.
+
+623
+00:30:01,800 --> 00:30:04,411
+What, you're talking about trepanation?
+
+624
+00:30:04,454 --> 00:30:06,979
+Drilling a hole in her skull? Yeah.
+
+625
+00:30:07,022 --> 00:30:09,111
+Are you gonna fix her
+up with duct tape after?
+
+626
+00:30:09,155 --> 00:30:11,287
+Maybe. Commander?
+
+627
+00:30:11,331 --> 00:30:12,375
+I think she's right.
+
+628
+00:30:14,464 --> 00:30:16,336
+And I think you think that, too.
+
+629
+00:30:16,379 --> 00:30:18,512
+Then we do this together.
+
+630
+00:30:18,555 --> 00:30:21,471
+This is all I had laying around.
+
+631
+00:30:21,515 --> 00:30:24,126
+Please tell me you have a laser scalpel.
+
+632
+00:30:24,170 --> 00:30:25,998
+No. We're gonna do this old-school.
+
+633
+00:30:26,041 --> 00:30:27,651
+We need to sterilize that drill bit.
+
+634
+00:30:27,695 --> 00:30:29,697
+First aid kit's over there.
+
+635
+00:30:37,139 --> 00:30:38,532
+I was able to raise shields.
+
+636
+00:30:38,575 --> 00:30:39,881
+We've gained some
+ground, but we're still
+
+637
+00:30:39,925 --> 00:30:41,187
+being held by the stasis field.
+
+638
+00:30:41,230 --> 00:30:42,928
+Power levels coming and going, Captain.
+
+639
+00:30:42,971 --> 00:30:44,930
+Security reports two dozen
+crew still trapped below deck.
+
+640
+00:30:44,973 --> 00:30:46,714
+Life support failing.
+
+641
+00:30:46,757 --> 00:30:49,369
+I'm reading an energy buildup
+from inside the sphere.
+
+642
+00:30:49,412 --> 00:30:51,850
+Spiking 10,000 degrees
+Kelvin and rising.
+
+643
+00:30:51,893 --> 00:30:52,981
+Is it powering up weapons?
+
+644
+00:30:53,025 --> 00:30:54,853
+Reading no identifiable weapons,
+
+645
+00:30:54,896 --> 00:30:57,290
+but its internal temperature
+is now 20,000 degrees Kelvin.
+
+646
+00:30:57,333 --> 00:30:59,945
+Divert all non-essential
+power to weapons.
+
+647
+00:30:59,988 --> 00:31:01,860
+Lock on that thing's
+radial axis and prepare
+
+648
+00:31:01,903 --> 00:31:03,470
+to fire photon torpedoes on my order.
+
+649
+00:31:03,513 --> 00:31:04,950
+Aye, sir. Arming torpedoes.
+
+650
+00:31:04,993 --> 00:31:06,995
+Captain, hold your fire.
+
+651
+00:31:07,039 --> 00:31:09,215
+I do not believe the
+sphere means us any harm.
+
+652
+00:31:09,258 --> 00:31:10,607
+All evidence to the contrary.
+
+653
+00:31:10,651 --> 00:31:11,870
+That thing's about to destroy us.
+
+654
+00:31:11,913 --> 00:31:13,306
+It's not destroying us, Captain.
+
+655
+00:31:13,349 --> 00:31:15,003
+It's trying to send us a message.
+
+656
+00:31:15,047 --> 00:31:17,049
+We received its message.
+I'm about to send our reply.
+
+657
+00:31:17,092 --> 00:31:21,314
+Captain, what if
+Vahar'ai, my death process,
+
+658
+00:31:21,357 --> 00:31:24,491
+was triggered because
+the sphere is also dying?
+
+659
+00:31:27,363 --> 00:31:29,583
+You want to run that by me again?
+
+660
+00:31:29,626 --> 00:31:31,237
+We Kelpiens have a defining trait
+
+661
+00:31:31,280 --> 00:31:34,588
+Hard-Wired into our DNA: empathy.
+
+662
+00:31:34,631 --> 00:31:37,417
+I can feel the sphere reaching out,
+
+663
+00:31:37,460 --> 00:31:39,767
+trying to share something
+before it expires.
+
+664
+00:31:39,810 --> 00:31:42,813
+Sir, I trust Saru's feelings implicitly.
+
+665
+00:31:42,857 --> 00:31:45,468
+- That sphere didn't come to attack us.
+- Captain,
+
+666
+00:31:45,512 --> 00:31:47,818
+I believe I have discerned
+its means of communication.
+
+667
+00:31:47,862 --> 00:31:50,996
+Detmer, status on Spock's shuttle?
+
+668
+00:31:51,039 --> 00:31:53,868
+Exits our sensor range in six minutes.
+
+669
+00:31:53,912 --> 00:31:55,652
+Once we lose his warp signature,
+
+670
+00:31:55,696 --> 00:31:57,437
+- we won't be able to reacquire it.
+- Set an intercept course.
+
+671
+00:31:57,480 --> 00:31:59,047
+I want us hauling ass
+the second we break free.
+
+672
+00:31:59,091 --> 00:32:00,657
+Aye, sir.
+
+673
+00:32:00,701 --> 00:32:01,832
+Keep talking and make it fast.
+
+674
+00:32:01,876 --> 00:32:03,573
+What if the sphere
+
+675
+00:32:03,617 --> 00:32:06,315
+was not attacking our
+universal translator,
+
+676
+00:32:06,359 --> 00:32:09,318
+but attempting to teach us its language
+
+677
+00:32:09,362 --> 00:32:11,407
+because it wants to be remembered,
+
+678
+00:32:11,451 --> 00:32:13,583
+to preserve its history
+
+679
+00:32:13,627 --> 00:32:15,237
+using Discovery,
+
+680
+00:32:15,281 --> 00:32:18,327
+but it cannot unless we
+power down and let it in?
+
+681
+00:32:18,371 --> 00:32:20,982
+That thing snatched us out of
+warp and almost gutted the ship.
+
+682
+00:32:21,026 --> 00:32:22,418
+What if we lower shields,
+
+683
+00:32:22,462 --> 00:32:23,942
+and that's exactly
+what it needs to end us?
+
+684
+00:32:26,596 --> 00:32:29,773
+Computer, adjust view screen display
+
+685
+00:32:29,817 --> 00:32:32,602
+to ultraviolet.
+
+686
+00:32:32,646 --> 00:32:34,865
+That is the light
+pattern I have been seeing
+
+687
+00:32:34,909 --> 00:32:36,998
+everywhere, repeating again
+
+688
+00:32:37,042 --> 00:32:40,784
+and again, generated
+by the sphere's virus.
+
+689
+00:32:40,828 --> 00:32:42,961
+Computer, run the light pattern
+
+690
+00:32:43,004 --> 00:32:45,572
+through the universal translator.
+
+691
+00:32:45,615 --> 00:32:47,791
+Captain, I believe we are looking
+
+692
+00:32:47,835 --> 00:32:49,402
+at a multitude of languages
+
+693
+00:32:49,445 --> 00:32:52,753
+so advanced, and knowledge so vast
+
+694
+00:32:52,796 --> 00:32:55,190
+that it simply overloaded our system.
+
+695
+00:32:55,234 --> 00:32:57,627
+This sphere is 100,000 years old.
+
+696
+00:32:57,671 --> 00:33:00,979
+Imagine what it knows, what it's seen.
+
+697
+00:33:01,022 --> 00:33:02,415
+Captain, this falls under Discovery's
+
+698
+00:33:02,458 --> 00:33:03,807
+original mission statement
+
+699
+00:33:03,851 --> 00:33:05,287
+as a science vessel.
+
+700
+00:33:18,866 --> 00:33:20,868
+Well, I'll be.
+
+701
+00:33:20,911 --> 00:33:22,217
+An amplified cortical implant.
+
+702
+00:33:29,268 --> 00:33:31,270
+Hey, kiddo.
+
+703
+00:33:32,706 --> 00:33:34,664
+What's your favorite song?
+
+704
+00:33:34,708 --> 00:33:36,579
+What?
+
+705
+00:33:36,623 --> 00:33:39,539
+Your favorite song...
+sing it for me.
+
+706
+00:33:44,065 --> 00:33:48,330
+♪ Though I'm past one
+hundred thousand miles ♪
+
+707
+00:33:48,374 --> 00:33:52,682
+♪ I'm feeling very still
+
+708
+00:33:52,726 --> 00:33:58,753
+♪ And I think my spaceship
+knows which way to go ♪
+
+709
+00:34:00,908 --> 00:34:04,085
+♪ Tell my wife I
+love her very much ♪
+
+710
+00:34:04,129 --> 00:34:06,783
+♪ She knows.
+
+711
+00:34:27,152 --> 00:34:29,154
+May?
+
+712
+00:34:31,765 --> 00:34:34,420
+You
+wanted to talk to me?
+
+713
+00:34:34,463 --> 00:34:36,030
+Here I am.
+
+714
+00:34:36,074 --> 00:34:38,772
+What do you want? Who are you?
+
+715
+00:34:38,815 --> 00:34:41,818
+I'm from a species known as the JahSepp.
+
+716
+00:34:41,862 --> 00:34:45,344
+We lived harmoniously until an
+alien intruder began to arrive
+
+717
+00:34:45,387 --> 00:34:48,042
+at random intervals,
+
+718
+00:34:48,086 --> 00:34:50,827
+ravaging our ecosystem irreparably.
+
+719
+00:34:50,871 --> 00:34:53,526
+So, you came for help
+to rid your species
+
+720
+00:34:53,569 --> 00:34:55,397
+of a destructive alien presence?
+
+721
+00:34:55,441 --> 00:34:57,530
+You are the destructive alien presence.
+
+722
+00:34:57,573 --> 00:35:01,099
+The-the... the jumps?
+
+723
+00:35:02,752 --> 00:35:04,711
+Discoveryâs jumps?
+
+724
+00:35:04,754 --> 00:35:08,062
+I broke through the
+confines of the network
+
+725
+00:35:08,106 --> 00:35:10,020
+to reach you, at great risk.
+
+726
+00:35:10,064 --> 00:35:11,761
+Risk? You infected my friend.
+
+727
+00:35:11,805 --> 00:35:14,112
+You don't belong inside of her.
+
+728
+00:35:14,155 --> 00:35:16,114
+You fly the ship from within
+the cube, I can reach you.
+
+729
+00:35:16,157 --> 00:35:18,942
+In Tilly, I found the memory
+of May Ahearn, someone I knew
+
+730
+00:35:18,986 --> 00:35:21,380
+she'd be sympathetic to,
+if given a second chance.
+
+731
+00:35:21,423 --> 00:35:23,643
+Once she trusted May, I
+planned to persuade her
+
+732
+00:35:23,686 --> 00:35:25,427
+to deliver my message to you.
+
+733
+00:35:25,471 --> 00:35:28,387
+Oh, I can only ask for your forgiveness.
+
+734
+00:35:28,430 --> 00:35:29,997
+I knew better.
+
+735
+00:35:30,040 --> 00:35:31,825
+I know better.
+
+736
+00:35:31,868 --> 00:35:34,828
+I'll do whatever it takes to fix this.
+
+737
+00:35:34,871 --> 00:35:36,830
+All I ask is that you let Tilly go.
+
+738
+00:35:36,873 --> 00:35:38,005
+I can't.
+
+739
+00:35:38,048 --> 00:35:39,789
+I have other plans for her.
+
+740
+00:35:42,140 --> 00:35:44,185
+Wrong!Oh. No!
+
+741
+00:35:46,666 --> 00:35:47,841
+Tilly!
+
+742
+00:35:47,884 --> 00:35:49,321
+The sphere's
+
+743
+00:35:49,364 --> 00:35:50,800
+internal temperature is approaching
+
+744
+00:35:50,844 --> 00:35:52,802
+ten-to-the-sixth-power
+Kelvin and rising.
+
+745
+00:35:52,846 --> 00:35:54,369
+Our weapons will just
+disintegrate in that heat.
+
+746
+00:35:54,413 --> 00:35:55,805
+Solar temperatures.
+
+747
+00:35:55,849 --> 00:35:57,546
+A sign of core collapse.
+
+748
+00:35:57,590 --> 00:36:00,201
+Captain, if we are correct,
+
+749
+00:36:00,245 --> 00:36:03,204
+once the transmission is
+complete, the sphere can die
+
+750
+00:36:03,248 --> 00:36:05,815
+knowing that it will
+live on after it is gone.
+
+751
+00:36:05,859 --> 00:36:09,645
+We can choose to fulfill
+our part in its destiny,
+
+752
+00:36:09,689 --> 00:36:14,911
+or simply let it fade away unremembered.
+
+753
+00:36:14,955 --> 00:36:17,218
+Spock's shuttle is almost
+out of sensor range, sir.
+
+754
+00:36:18,437 --> 00:36:20,743
+Prepare to lower shields.
+
+755
+00:36:23,268 --> 00:36:25,226
+If this goes south,
+overload the warp core
+
+756
+00:36:25,270 --> 00:36:27,402
+and eject it at the
+sphere on my command.
+
+757
+00:36:27,446 --> 00:36:29,622
+Even at half the distance,
+the blast will decimate it.
+
+758
+00:36:29,665 --> 00:36:31,972
+When it lets go, we
+divert all power to shields
+
+759
+00:36:32,015 --> 00:36:33,843
+and try to ride the shock
+wave to a safe distance.
+
+760
+00:36:33,887 --> 00:36:36,237
+Assuming it doesn't vaporize us first.
+
+761
+00:36:36,281 --> 00:36:37,804
+If there's even half a
+chance you're correct,
+
+762
+00:36:37,847 --> 00:36:40,589
+I'm bound by my oath and conscience
+
+763
+00:36:40,633 --> 00:36:42,765
+not to let it vanish forever.
+
+764
+00:36:42,809 --> 00:36:44,289
+Commanders, take your stations.
+
+765
+00:36:44,332 --> 00:36:47,161
+I'll follow your lead.
+
+766
+00:36:47,205 --> 00:36:49,816
+Lieutenant Detmer, lower shields.
+
+767
+00:36:49,859 --> 00:36:51,383
+Aye, sir. Shields down.
+
+768
+00:36:58,303 --> 00:37:00,305
+Bryce,
+
+769
+00:37:00,348 --> 00:37:02,350
+all channels open. Owosekun,
+
+770
+00:37:02,394 --> 00:37:05,005
+divert all computing
+resources to Communications.
+
+771
+00:37:05,048 --> 00:37:07,790
+Yes, Commander. Here goes nothing.
+
+772
+00:37:19,976 --> 00:37:21,717
+Transmission is downloading.
+
+773
+00:37:21,761 --> 00:37:23,241
+All library computers
+
+774
+00:37:23,284 --> 00:37:24,938
+are processing at 20% above maximum.
+
+775
+00:37:24,981 --> 00:37:27,114
+Whatever the sphere is saying,
+we're getting all of it.
+
+776
+00:37:27,157 --> 00:37:28,942
+- How long until it blows?
+- Seconds. Power
+
+777
+00:37:28,985 --> 00:37:31,118
+and energy levels are off the chart.
+
+778
+00:37:31,161 --> 00:37:32,772
+Detmer, can you put enough
+distance between us in time?
+
+779
+00:37:32,815 --> 00:37:35,209
+Negative, sir. We're still
+being locked by the stasis field.
+
+780
+00:37:35,253 --> 00:37:37,342
+Transmission complete. Detmer,
+eject the warp core.
+
+781
+00:37:37,385 --> 00:37:39,126
+Computer controls not responding, sir.
+
+782
+00:37:39,169 --> 00:37:40,127
+Detonation confirmed.
+
+783
+00:37:40,170 --> 00:37:41,607
+Hard astern. Full impulse now.
+
+784
+00:37:48,788 --> 00:37:51,138
+Ah.
+
+785
+00:37:51,181 --> 00:37:53,967
+It is so beautiful.
+
+786
+00:37:54,010 --> 00:37:57,231
+The light is almost like... music.
+
+787
+00:37:57,275 --> 00:37:59,973
+Yes, it is.
+
+788
+00:38:00,016 --> 00:38:03,019
+I'm at a loss as to how
+we're still alive to see it.
+
+789
+00:38:04,978 --> 00:38:07,285
+The sphere's stasis
+field reversed polarity
+
+790
+00:38:07,328 --> 00:38:10,157
+a nanosecond before detonation...
+
+791
+00:38:10,200 --> 00:38:13,334
+and pushed us clear.
+
+792
+00:38:13,378 --> 00:38:16,206
+Its final act was to save us
+
+793
+00:38:16,250 --> 00:38:18,513
+so we could tell its story.
+
+794
+00:38:25,085 --> 00:38:26,347
+Hand me the damn torch.
+
+795
+00:38:39,317 --> 00:38:40,666
+Tilly.
+
+796
+00:38:40,709 --> 00:38:41,841
+Breathe. Breathe,
+Tilly.
+
+797
+00:38:41,884 --> 00:38:42,929
+Breathe.
+
+798
+00:38:42,972 --> 00:38:45,018
+Breathe, breathe. Slow it down.
+
+799
+00:38:45,061 --> 00:38:46,715
+Breathe. Come on, you're okay.
+
+800
+00:38:46,759 --> 00:38:49,501
+You're still you.
+
+801
+00:38:49,544 --> 00:38:51,024
+Tilly.
+
+802
+00:38:51,067 --> 00:38:54,027
+Slow. Shh.
+
+803
+00:38:54,070 --> 00:38:56,029
+Stamets
+to Burnham. We got Tilly.
+
+804
+00:38:56,072 --> 00:38:57,987
+She's okay.
+
+805
+00:39:13,829 --> 00:39:16,354
+Now it is my turn.
+
+806
+00:39:16,397 --> 00:39:18,921
+Take me to my quarters, please.
+
+807
+00:39:55,610 --> 00:39:58,613
+I left home with a handful of seeds.
+
+808
+00:40:00,659 --> 00:40:02,704
+Is this from your homeworld?
+
+809
+00:40:02,748 --> 00:40:06,142
+It is the blossom that marks the...
+
+810
+00:40:06,186 --> 00:40:09,145
+the passing of seasons on Kaminar.
+
+811
+00:40:11,496 --> 00:40:15,238
+Somewhere along the way,
+I... I lost who I was.
+
+812
+00:40:15,282 --> 00:40:18,111
+So focused on being
+
+813
+00:40:18,154 --> 00:40:21,375
+the best Kelpien in Starfleet.
+
+814
+00:40:21,419 --> 00:40:24,683
+Defined by my rank
+
+815
+00:40:24,726 --> 00:40:26,728
+and uniform...
+
+816
+00:40:28,643 --> 00:40:30,993
+...until that is all I became.
+
+817
+00:40:35,520 --> 00:40:37,826
+You are wrong.
+
+818
+00:40:37,870 --> 00:40:39,828
+Look at what you've achieved.
+
+819
+00:40:39,872 --> 00:40:43,484
+You found yourself among the stars.
+
+820
+00:40:43,528 --> 00:40:46,226
+You found your bravery.
+
+821
+00:40:46,269 --> 00:40:48,924
+Your strength.
+
+822
+00:40:48,968 --> 00:40:51,579
+You've saved so many lives, Saru.
+
+823
+00:40:53,189 --> 00:40:55,714
+Including mine.
+
+824
+00:41:06,638 --> 00:41:08,640
+It is time.
+
+825
+00:41:12,992 --> 00:41:17,170
+In that first drawer, you
+will find a Kelpien knife,
+
+826
+00:41:17,213 --> 00:41:21,696
+a keepsake I use to prune my flowers.
+
+827
+00:41:35,536 --> 00:41:37,495
+I need you
+
+828
+00:41:37,538 --> 00:41:41,194
+to... to sever my ganglia
+
+829
+00:41:41,237 --> 00:41:43,152
+and end my suffering.
+
+830
+00:41:43,196 --> 00:41:44,719
+I need your help
+
+831
+00:41:44,763 --> 00:41:47,635
+so that I can die now,
+
+832
+00:41:47,679 --> 00:41:50,377
+peacefully,
+
+833
+00:41:50,420 --> 00:41:54,294
+before the pain and
+madness overtakes me.
+
+834
+00:42:02,868 --> 00:42:06,132
+Thank you, Michael.
+
+835
+00:42:19,580 --> 00:42:22,583
+Do we have to do this?
+
+836
+00:42:22,627 --> 00:42:26,369
+Is it truly inevitable?
+
+837
+00:42:26,413 --> 00:42:29,677
+I am sorry.
+
+838
+00:42:32,419 --> 00:42:35,944
+I know how hard this is for you.
+
+839
+00:42:35,988 --> 00:42:38,991
+How many people you've already lost.
+
+840
+00:42:42,995 --> 00:42:46,694
+I would do it myself, but...
+
+841
+00:42:46,738 --> 00:42:49,479
+I am too weak.
+
+842
+00:42:57,531 --> 00:42:59,533
+After all this time...
+
+843
+00:43:01,404 --> 00:43:05,713
+...after everything that we
+have been through together...
+
+844
+00:43:07,715 --> 00:43:10,239
+...I realize now
+
+845
+00:43:10,283 --> 00:43:13,895
+that you are my family, Saru.
+
+846
+00:43:14,940 --> 00:43:18,857
+I feel the same...
+
+847
+00:43:18,900 --> 00:43:20,859
+about you.
+
+848
+00:43:20,902 --> 00:43:24,514
+You are the only one who knows me.
+
+849
+00:43:25,951 --> 00:43:28,910
+You replaced the
+sister I had on Kaminar.
+
+850
+00:43:30,608 --> 00:43:32,610
+Siranna.
+
+851
+00:43:34,786 --> 00:43:37,745
+That knife was hers.
+
+852
+00:43:38,746 --> 00:43:40,879
+I left her
+
+853
+00:43:40,922 --> 00:43:44,360
+without so much as a good-bye.
+
+854
+00:43:45,361 --> 00:43:48,626
+You promise me...
+
+855
+00:43:48,669 --> 00:43:52,934
+no matter how frightening
+or painful it may be...
+
+856
+00:43:52,978 --> 00:43:55,720
+promise me
+
+857
+00:43:55,763 --> 00:43:57,896
+you will
+
+858
+00:43:57,939 --> 00:44:01,073
+mend your relationship with Spock.
+
+859
+00:44:01,116 --> 00:44:05,164
+If you and I can build
+this type of bond,
+
+860
+00:44:05,207 --> 00:44:07,383
+I'm certain you can
+do the same with him.
+
+861
+00:44:08,515 --> 00:44:10,691
+Please.
+
+862
+00:44:11,736 --> 00:44:13,694
+I promise.
+
+863
+00:44:18,264 --> 00:44:22,137
+Good-bye, Michael.
+
+864
+00:44:25,924 --> 00:44:28,709
+I love you, Saru.
+
+865
+00:44:36,891 --> 00:44:39,633
+Michael? What is wrong?
+
+866
+00:44:39,677 --> 00:44:43,419
+I- I bare... I barely touched it.
+
+867
+00:44:43,463 --> 00:44:45,944
+They fell out on their own.
+
+868
+00:44:54,256 --> 00:44:56,128
+I... I, uh...
+
+869
+00:44:56,171 --> 00:44:58,217
+don't understand.
+
+870
+00:44:58,260 --> 00:45:00,436
+I should be...
+
+871
+00:45:03,178 --> 00:45:06,573
+Your vital signs
+have returned to normal.
+
+872
+00:45:06,616 --> 00:45:07,792
+How are you feeling?
+
+873
+00:45:07,835 --> 00:45:11,186
+I have never felt this way before.
+
+874
+00:45:11,230 --> 00:45:15,060
+Fear has always been the
+governing principle of my life.
+
+875
+00:45:15,103 --> 00:45:17,802
+But now...
+
+876
+00:45:17,845 --> 00:45:20,282
+it is gone.
+
+877
+00:45:20,326 --> 00:45:23,155
+More than that, I feel...
+
+878
+00:45:24,199 --> 00:45:25,897
+...power.
+
+879
+00:45:25,940 --> 00:45:29,814
+My own power.
+
+880
+00:45:29,857 --> 00:45:31,554
+Well,
+
+881
+00:45:31,598 --> 00:45:35,297
+consider yourself certified
+for duty, Commander.
+
+882
+00:45:39,084 --> 00:45:43,610
+Despite speaking 94 languages,
+
+883
+00:45:43,653 --> 00:45:47,962
+there are times when
+words are not enough.
+
+884
+00:45:55,143 --> 00:45:56,797
+Initial reports
+
+885
+00:45:56,841 --> 00:45:58,799
+are coming in from the science teams.
+
+886
+00:46:00,845 --> 00:46:04,022
+The sphere didn't just
+give us its language.
+
+887
+00:46:04,065 --> 00:46:07,329
+We have recorded everything
+it has seen and experienced
+
+888
+00:46:07,373 --> 00:46:09,723
+the last 100,000 years.
+
+889
+00:46:09,767 --> 00:46:11,943
+Its legacy.
+
+890
+00:46:11,986 --> 00:46:14,859
+And your legacy has a new chapter.
+
+891
+00:46:16,382 --> 00:46:19,994
+A new and deeply troubling one.
+
+892
+00:46:22,867 --> 00:46:24,259
+The Kelpien way of life
+
+893
+00:46:24,303 --> 00:46:27,480
+has always been oriented toward death
+
+894
+00:46:27,523 --> 00:46:29,656
+and the role the Ba'ul play in it.
+
+895
+00:46:29,699 --> 00:46:33,529
+My people call it "The Great Balance. "
+
+896
+00:46:33,573 --> 00:46:37,490
+It is our central, organizing truth.
+
+897
+00:46:37,533 --> 00:46:38,970
+But you proved it wrong.
+
+898
+00:46:39,013 --> 00:46:40,710
+Precisely.
+
+899
+00:46:40,754 --> 00:46:44,279
+And you asked me before
+why I could not go home.
+
+900
+00:46:44,323 --> 00:46:48,718
+It is because I made a
+promise to Captain Georgiou
+
+901
+00:46:48,762 --> 00:46:51,852
+to uphold General Order 1,
+
+902
+00:46:51,896 --> 00:46:55,813
+not to interfere with
+the destiny of my species.
+
+903
+00:46:55,856 --> 00:46:58,511
+But now,
+
+904
+00:46:58,554 --> 00:47:02,994
+knowing that what my people
+have accepted as the truth
+
+905
+00:47:03,037 --> 00:47:06,040
+is a lie?
+
+906
+00:47:08,390 --> 00:47:11,350
+What does this mean for us?
+
+907
+00:47:11,393 --> 00:47:13,091
+For my species?
+
+908
+00:47:13,134 --> 00:47:15,833
+My... my planet?
+
+909
+00:47:21,926 --> 00:47:25,059
+The war between
+the Quaternary star systems
+
+910
+00:47:25,103 --> 00:47:27,061
+and the Roquar'ri Imperium
+lasted a solar cent...
+
+911
+00:47:28,628 --> 00:47:30,586
+From the sphere?
+
+912
+00:47:30,630 --> 00:47:32,850
+The computer's translation.
+
+913
+00:47:32,893 --> 00:47:35,156
+It's like we've found our
+galaxy's Dead Sea Scrolls.
+
+914
+00:47:35,200 --> 00:47:38,029
+Federation scientists will
+be studying this for centuries
+
+915
+00:47:38,072 --> 00:47:40,683
+thanks to you and Saru.
+
+916
+00:47:40,727 --> 00:47:43,295
+I hope it was worth the cost.
+
+917
+00:47:44,339 --> 00:47:46,124
+Cost us nothing, sir.
+
+918
+00:47:46,167 --> 00:47:48,387
+I combed through the
+sphere's sensor records
+
+919
+00:47:48,430 --> 00:47:50,606
+and found the last thing that it saw:
+
+920
+00:47:50,650 --> 00:47:51,912
+Spock's shuttle.
+
+921
+00:47:51,956 --> 00:47:54,393
+I was able to track it
+beyond our sensor range.
+
+922
+00:47:55,437 --> 00:47:56,917
+Conn,
+
+923
+00:47:56,961 --> 00:47:58,745
+Commander Burnham is sending you
+
+924
+00:47:58,788 --> 00:48:00,268
+the coordinates of Spock's shuttle.
+
+925
+00:48:00,312 --> 00:48:01,791
+Plot a course, and
+don't spare the horses.
+
+926
+00:48:01,835 --> 00:48:02,836
+Aye, sir.
+
+927
+00:48:05,752 --> 00:48:09,016
+From now on,
+
+928
+00:48:09,060 --> 00:48:12,411
+I'll work to keep you clear
+
+929
+00:48:12,454 --> 00:48:14,239
+about whatever happens
+with your brother.
+
+930
+00:48:14,282 --> 00:48:17,068
+Thank you, Captain, but I
+have had a change of heart.
+
+931
+00:48:18,765 --> 00:48:20,549
+I can't abandon him.
+
+932
+00:48:20,593 --> 00:48:22,508
+No matter the mistakes that I've made,
+
+933
+00:48:22,551 --> 00:48:25,598
+I need my brother to know that
+I will always be there for him.
+
+934
+00:48:25,641 --> 00:48:27,469
+No matter what.
+
+935
+00:48:32,866 --> 00:48:34,868
+We need to close the
+door to the network.
+
+936
+00:48:34,912 --> 00:48:36,130
+Forever.
+
+937
+00:48:36,174 --> 00:48:39,699
+Just making final calculations.
+
+938
+00:48:39,742 --> 00:48:42,920
+Hi, hi. Hello? Hello? It's me.
+
+939
+00:48:45,009 --> 00:48:46,227
+Did you see that?
+
+940
+00:48:46,271 --> 00:48:47,881
+- See what?
+- May.
+
+941
+00:48:47,925 --> 00:48:50,536
+She was there, and then she was gone.
+
+942
+00:48:50,579 --> 00:48:53,060
+Um...
+
+943
+00:48:53,104 --> 00:48:56,716
+...you might still be coming
+down off your hallucinogen.
+
+944
+00:48:56,759 --> 00:48:57,935
+- No, I swear. I swear.
+- Yeah.
+
+945
+00:48:57,978 --> 00:49:00,024
+No, it's natural to be paranoid
+
+946
+00:49:00,067 --> 00:49:01,895
+in your condition. Something
+is not right.
+
+947
+00:49:01,939 --> 00:49:02,896
+Something's not right.
+
+948
+00:49:02,940 --> 00:49:04,550
+Hello?
+
+949
+00:49:04,593 --> 00:49:05,768
+Tilly. Hello?
+
+950
+00:49:05,812 --> 00:49:07,248
+Tilly. Hello, hello...
+
+951
+00:49:08,815 --> 00:49:10,251
+Wow.
+
+952
+00:49:10,295 --> 00:49:12,688
+Have you always been a superior being?
+
+953
+00:49:12,732 --> 00:49:14,603
+Hi. Hello? Hello?
+
+954
+00:49:14,647 --> 00:49:17,084
+Because...
+
+955
+00:49:17,128 --> 00:49:18,956
+the harmonics in your aura...
+
+956
+00:49:18,999 --> 00:49:20,261
+You know, I was thinking
+
+957
+00:49:20,305 --> 00:49:23,961
+the exact same thing about your aura.
+
+958
+00:49:24,004 --> 00:49:25,440
+What's that dust on your face?
+
+959
+00:49:25,484 --> 00:49:26,789
+...dust on your face?
+
+960
+00:49:26,833 --> 00:49:28,269
+It's on yours, too.
+
+961
+00:49:28,313 --> 00:49:29,096
+...yours, too.
+
+962
+00:49:29,140 --> 00:49:30,619
+That tastes like...
+
+963
+00:49:30,663 --> 00:49:31,881
+Psilocybin?
+
+964
+00:49:31,925 --> 00:49:33,187
+Psilocybin?
+
+965
+00:49:33,231 --> 00:49:35,276
+It dosed us. It dosed us.
+
+966
+00:49:35,320 --> 00:49:36,669
+Slap me really hard.
+
+967
+00:49:38,671 --> 00:49:40,281
+Why'd I do that?
+
+968
+00:49:40,325 --> 00:49:42,501
+To get me focused enough
+to find the med kit.
+
+969
+00:49:42,544 --> 00:49:44,982
+I need to hit us both
+with a shot of impedrizine
+
+970
+00:49:45,025 --> 00:49:46,157
+so we can come down.
+
+971
+00:49:48,942 --> 00:49:51,553
+Now I need to give one to Tilly.
+
+972
+00:49:51,597 --> 00:49:53,077
+Wait a minute. Where is she?
+
+973
+00:49:54,252 --> 00:49:55,383
+Tilly?
+
+974
+00:49:56,428 --> 00:49:57,951
+Wait.
+
+975
+00:49:59,170 --> 00:50:00,649
+Oh, my God, they took her.
+
+976
+00:50:00,693 --> 00:50:02,173
+No. No, no, no, no, no, no, no, no.
+
+977
+00:50:04,610 --> 00:50:07,395
+Tilly?
+
+978
+00:50:07,439 --> 00:50:09,136
+No!
+
+979
+00:50:17,672 --> 00:50:19,971
+Ensign Sylvia Tilly is out there.
+
+980
+00:50:19,972 --> 00:50:22,941
+And we have an hour to find her.
+
+981
+00:50:24,151 --> 00:50:26,233
+- You kidnapped me!
+- I need your help.
+
+982
+00:50:27,230 --> 00:50:29,337
+Try not to blow us up.
+
+983
+00:50:31,036 --> 00:50:32,802
+Don't be so worried.
+
+984
+00:50:32,803 --> 00:50:36,168
+Burnham to the bridge.
+We have a complication.
+
+985
+00:50:37,139 --> 00:50:39,188
+We wont survive complications.
+
+986
+00:50:39,189 --> 00:50:44,189
+Trailer, Sync and corrections by:<font color="#095f9b">kDragon</font>
+www.addic7ed.com
+
+987
+00:50:44,190 --> 00:50:49,190
+<font color="#F2F2F2">Star Trek: Discovery</font>
+<font color="00bbb9">SO2EO4- An Obol for Charon</font>
+

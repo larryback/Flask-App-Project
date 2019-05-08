@@ -18,9 +18,14 @@ def home():
     return render_template('home.html', posts=posts)
 
 
-@app.route("/about")
-def about():
-    return render_template('about.html', title='About')
+@app.route("/introduction")
+def introduction():
+    return render_template('introduction.html', title='Introduction')
+
+@app.route("/supply_vs_price")
+def supply_vs_price():
+    return render_template('supply_vs_price.html', title='Supply vs Price')
+
 
 
 @app.route("/register", methods=['GET', 'POST'])

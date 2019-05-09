@@ -26,6 +26,9 @@ def introduction():
 def supply_vs_price():
     return render_template('supply_vs_price.html', title='Supply vs Price')
 
+@app.route("/temperature_and_precipitation")
+def temperature_and_precipitation():
+    return render_template('temperature_and_precipitation__.html', title=' Temperature & Precipitation')
 
 
 @app.route("/register", methods=['GET', 'POST'])

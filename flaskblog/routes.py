@@ -26,6 +26,10 @@ def introduction():
 def supply_vs_price():
     return render_template('supply_vs_price.html', title='Supply vs Price')
 
+@app.route("/five_states_and_total_wheat_production")
+def five_states_and_total_wheat_production():
+    return render_template('five_states_and_total_wheat_production.html', title='5 States & Total Wheat Production')    
+
 @app.route("/temperature_and_precipitation")
 def temperature_and_precipitation():
     return render_template('temperature_and_precipitation__.html', title=' Temperature & Precipitation')
